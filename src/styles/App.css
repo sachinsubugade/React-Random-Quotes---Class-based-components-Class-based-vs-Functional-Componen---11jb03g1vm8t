@@ -5,6 +5,7 @@
     padding: 0;
     list-style: none;
     vertical-align: baseline;
+    color: red;
 }
 
 div {
@@ -50,6 +51,7 @@ body {
 }
 
 .quote-author {
+    color: white;
     width: 450px;
     height: auto;
     clear: both;
